@@ -32,7 +32,7 @@ fun StudentAppTheme(
         LightColorPalette
     }
 
-    // Заглушка, причем крайне кривая :)
+    // Заглушка, крайне кривая
     MaterialTheme(
         colorScheme = MaterialTheme.colorScheme,
         typography = MaterialTheme.typography,

@@ -13,7 +13,7 @@ class MainActivity : ComponentActivity() {
         super.onCreate(savedInstanceState)
         setContent {
             StudentAppTheme {
-                StudentInfo("Лохов Артур Петрович", "ИКБО-27-22")
+                StudentInfo("Нечаев Михаил Александрович", "ИКБО-27-22")
             }
         }
     }
